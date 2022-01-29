@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SERVIEXPRESSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cliente">
+    <Key>
+      <PropertyRef Name="rut_cliente" />
+    </Key>
+    <Property Name="rut_cliente" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="Int32" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <Property Name="id_convenio" Type="Int32" />
+    <NavigationProperty Name="Convenio" Relationship="Self.FK_Cliente_Convenio" FromRole="Cliente" ToRole="Convenio" />
+    <NavigationProperty Name="IngresoTaller" Relationship="Self.FK_IngresoTaller_Cliente" FromRole="Cliente" ToRole="IngresoTaller" />
+  </EntityType>
+  <EntityType Name="Convenio">
+    <Key>
+      <PropertyRef Name="id_convenio" />
+    </Key>
+    <Property Name="id_convenio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="descuento" Type="Int32" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK_Cliente_Convenio" FromRole="Convenio" ToRole="Cliente" />
+  </EntityType>
+  <EntityType Name="Fabricante">
+    <Key>
+      <PropertyRef Name="id_fabricante" />
+    </Key>
+    <Property Name="id_fabricante" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="nombrefabricante" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="IngresoTaller" Relationship="Self.FK_IngresoTaller_Fabricante" FromRole="Fabricante" ToRole="IngresoTaller" />
+  </EntityType>
+  <EntityType Name="IngresoTaller">
+    <Key>
+      <PropertyRef Name="num_ingreso" />
+    </Key>
+    <Property Name="num_ingreso" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patente" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_fabricante" Type="Int32" Nullable="false" />
+    <Property Name="anno" Type="Int32" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="id_servicio" Type="Int32" Nullable="false" />
+    <Property Name="rut_cliente" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="Cliente" Relationship="Self.FK_IngresoTaller_Cliente" FromRole="IngresoTaller" ToRole="Cliente" />
+    <NavigationProperty Name="Fabricante" Relationship="Self.FK_IngresoTaller_Fabricante" FromRole="IngresoTaller" ToRole="Fabricante" />
+    <NavigationProperty Name="Servicio" Relationship="Self.FK_IngresoTaller_Servicio" FromRole="IngresoTaller" ToRole="Servicio" />
+  </EntityType>
+  <EntityType Name="Servicio">
+    <Key>
+      <PropertyRef Name="id_servicio" />
+    </Key>
+    <Property Name="id_servicio" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="descripcion" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="precio" Type="Int32" />
+    <NavigationProperty Name="IngresoTaller" Relationship="Self.FK_IngresoTaller_Servicio" FromRole="Servicio" ToRole="IngresoTaller" />
+  </EntityType>
+  <EntityType Name="Usuario">
+    <Key>
+      <PropertyRef Name="email" />
+    </Key>
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombreusuario" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="password" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Cliente_Convenio">
+    <End Role="Convenio" Type="Self.Convenio" Multiplicity="0..1" />
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Convenio">
+        <PropertyRef Name="id_convenio" />
+      </Principal>
+      <Dependent Role="Cliente">
+        <PropertyRef Name="id_convenio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IngresoTaller_Cliente">
+    <End Role="Cliente" Type="Self.Cliente" Multiplicity="1" />
+    <End Role="IngresoTaller" Type="Self.IngresoTaller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Cliente">
+        <PropertyRef Name="rut_cliente" />
+      </Principal>
+      <Dependent Role="IngresoTaller">
+        <PropertyRef Name="rut_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IngresoTaller_Fabricante">
+    <End Role="Fabricante" Type="Self.Fabricante" Multiplicity="1" />
+    <End Role="IngresoTaller" Type="Self.IngresoTaller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Fabricante">
+        <PropertyRef Name="id_fabricante" />
+      </Principal>
+      <Dependent Role="IngresoTaller">
+        <PropertyRef Name="id_fabricante" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_IngresoTaller_Servicio">
+    <End Role="Servicio" Type="Self.Servicio" Multiplicity="1" />
+    <End Role="IngresoTaller" Type="Self.IngresoTaller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Servicio">
+        <PropertyRef Name="id_servicio" />
+      </Principal>
+      <Dependent Role="IngresoTaller">
+        <PropertyRef Name="id_servicio" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SERVIEXPRESSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cliente" EntityType="Self.Cliente" />
+    <EntitySet Name="Convenio" EntityType="Self.Convenio" />
+    <EntitySet Name="Fabricante" EntityType="Self.Fabricante" />
+    <EntitySet Name="IngresoTaller" EntityType="Self.IngresoTaller" />
+    <EntitySet Name="Servicio" EntityType="Self.Servicio" />
+    <EntitySet Name="Usuario" EntityType="Self.Usuario" />
+    <AssociationSet Name="FK_Cliente_Convenio" Association="Self.FK_Cliente_Convenio">
+      <End Role="Convenio" EntitySet="Convenio" />
+      <End Role="Cliente" EntitySet="Cliente" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IngresoTaller_Cliente" Association="Self.FK_IngresoTaller_Cliente">
+      <End Role="Cliente" EntitySet="Cliente" />
+      <End Role="IngresoTaller" EntitySet="IngresoTaller" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IngresoTaller_Fabricante" Association="Self.FK_IngresoTaller_Fabricante">
+      <End Role="Fabricante" EntitySet="Fabricante" />
+      <End Role="IngresoTaller" EntitySet="IngresoTaller" />
+    </AssociationSet>
+    <AssociationSet Name="FK_IngresoTaller_Servicio" Association="Self.FK_IngresoTaller_Servicio">
+      <End Role="Servicio" EntitySet="Servicio" />
+      <End Role="IngresoTaller" EntitySet="IngresoTaller" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

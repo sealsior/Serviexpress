@@ -1,0 +1,67 @@
+﻿<mah:MetroWindow x:Class="ServiExpress.InTaller"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        GlowBrush="{DynamicResource MahApps.Brushes.Accent}"
+        xmlns:local="clr-namespace:ServiExpress"
+        xmlns:BibliotecaClases="clr-namespace:BibliotecaClases;assembly=BibliotecaClases" 
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"         
+        Title="INGRESO VEHÍCULO A TALLER" Height="641.5" Width="1000" FontWeight="Bold">
+    <Grid Background="Azure">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="33*"/>
+            <ColumnDefinition Width="761*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Rut cliente:" HorizontalAlignment="Left" FontSize="18" Margin="28,146,0,0" VerticalAlignment="Top" Foreground="Green" FontWeight="Bold" Grid.Column="1"/>
+        <Label Content="Patente:" HorizontalAlignment="Left" FontSize="18" Foreground="Green" Margin="56,203,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="-0.479,0.531" Grid.Column="1"/>
+        <Label Content="Ingreso de Vehículos a Taller" HorizontalAlignment="Left" Margin="271,-1,0,0" VerticalAlignment="Top" FontSize="30" FontWeight="Bold" Foreground="Green" Grid.Column="1"/>
+        <ListBox HorizontalAlignment="Left" Height="0" Margin="186,206,0,0" VerticalAlignment="Top" Width="13" Grid.Column="1"/>
+        <Label Content="Fabricante:" HorizontalAlignment="Left" FontSize="18" Foreground="Green" Margin="541,102,0,0" VerticalAlignment="Top" FontWeight="Bold" Grid.Column="1"/>
+        <Label Content="Modelo:" HorizontalAlignment="Left" FontSize="18" Foreground="Green" Margin="559,154,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="6.264,-1.641" Grid.Column="1"/>
+        <TextBox x:Name="txtModelo" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" BorderBrush="Green" Height="23" Margin="645,162,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Grid.Column="1"/>
+        <TextBox x:Name="txtPatente" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" BorderBrush="Green" Height="23" Margin="139,203,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="208" Grid.Column="1"/>
+        <Label Content="Servicio:" HorizontalAlignment="Left" FontSize="18" Margin="557,204,0,0" Foreground="Green" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.601,1.442" Grid.Column="1"/>
+        <Label Content="Año:" HorizontalAlignment="Left" FontSize="18" Margin="68,251,0,0" Foreground="Green" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.64,1.077" Grid.Column="1"/>
+        <Button x:Name="btnIngresoTaller" Content="Registrar" HorizontalAlignment="Left" Margin="298,281,0,0" VerticalAlignment="Top" Width="105" Height="38" FontWeight="Bold" FontSize="15" Foreground="White" Background="LimeGreen" Click="BtnIngresoTaller_Click" Grid.Column="1"/>
+        <Button x:Name="btnVolver" Content="Menu Principal" Background="LimeGreen" FontSize="15" Foreground="White" HorizontalAlignment="Left" Margin="789,282,0,0" VerticalAlignment="Top" Width="140" Height="37" FontWeight="Bold" Click="BtnVolver_Click" RenderTransformOrigin="0.35,0.5" Grid.Column="1"/>
+        <TextBox x:Name="txtRutCliente" Controls:TextBoxHelper.ClearTextButton="True" Controls:TextBoxHelper.HasText="True" HorizontalAlignment="Left" BorderBrush="Green" Height="23" Margin="139,151,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="206" Grid.Column="1"/>
+        <Button x:Name="btnBuscarCliente" Content="Buscar" Background="LimeGreen" FontSize="14" Foreground="White" HorizontalAlignment="Left" Margin="352,146,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.336,0.552" Grid.Column="1" Click="BtnBuscarCliente_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" Background="LimeGreen"  FontSize="15" Foreground="White" HorizontalAlignment="Left" Margin="665,282,0,0" VerticalAlignment="Top" Width="106" Height="37" Click="BtnLimpiar_Click" Grid.Column="1" RenderTransformOrigin="0.084,0.486"/>
+        <Label Content="Nro. Ingreso:" FontSize="18" HorizontalAlignment="Left" Margin="21,105,0,0" VerticalAlignment="Top" Foreground="Green" Grid.Column="1"/>
+        <TextBox x:Name="txtNroIngreso" Controls:TextBoxHelper.ClearTextButton="True" HorizontalAlignment="Left" BorderBrush="Green" Height="23" Margin="142,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="203" Grid.Column="1" IsEnabled="False"/>
+        <DataGrid x:Name="dgIngresos" 
+                  HorizontalAlignment="Left" IsReadOnly="True" Height="235" 
+                 AutoGenerateColumns="false" SelectedItem="{Binding Path=num_ingreso}" 
+                  Margin="0,351,0,0" VerticalAlignment="Top" Width="928" Grid.Column="1">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID Ingreso" Width="90" Binding="{Binding Path=num_ingreso}"/>
+                <DataGridTextColumn Header="Patente" Width="90" Binding="{Binding Path=patente}"/>
+                <DataGridTextColumn Header="Fabricante" Width="100" Binding="{Binding Path=Nombrefabricante}"/>
+                <DataGridTextColumn Header="Modelo" Width="100" Binding="{Binding Path=modelo}"/>
+                <DataGridTextColumn Header="Año" Width="50" Binding="{Binding Path=anno}"/>
+                <DataGridTextColumn Header="Rut Cliente" Width="100" Binding="{Binding Path=rut_cliente}"/>
+                <DataGridTextColumn Header="Nombre Cliente" Width="130" Binding="{Binding Path=Nombre}"/>
+                <DataGridTextColumn Header="ID Servicio" Width="90" Binding="{Binding Path=id_servicio}"/>
+                <DataGridTextColumn Header="Servicio" Width="190" Binding="{Binding Path=Descripcion}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="cboServicio" Grid.Column="1" BorderBrush="Green" HorizontalAlignment="Left" Margin="645,207,0,0" VerticalAlignment="Top" Width="206"/>
+        <Button x:Name="btnBuscarIngreso" Content="Buscar" Background="LimeGreen" FontSize="14" Foreground="White" HorizontalAlignment="Left" Margin="352,105,0,0" VerticalAlignment="Top" Width="75" RenderTransformOrigin="0.336,0.552" Grid.Column="1" Click="BtnBuscarIngreso_Click"/>
+        <Button x:Name="btnActualizar" Content="Actualizar" HorizontalAlignment="Left" Margin="420,281,0,0" VerticalAlignment="Top" Width="105" Height="38" FontWeight="Bold" FontSize="15" Foreground="White" Background="LimeGreen" Grid.Column="1" Click="BtnActualizar_Click"/>
+        <Button x:Name="btnEliminar" Content="Eliminar" HorizontalAlignment="Left" Margin="541,282,0,0" VerticalAlignment="Top" Width="105" Height="38" FontWeight="Bold" FontSize="15" Foreground="White" Background="LimeGreen" Grid.Column="1" Click="BtnEliminar_Click"/>
+        <TextBox x:Name="txtAnno" Controls:TextBoxHelper.ClearTextButton="True" Controls:TextBoxHelper.Watermark="YYYY" MaxLength="4" Grid.Column="1" PreviewTextInput="NumberValidationTextBox" BorderBrush="Green" HorizontalAlignment="Left" Height="23" Margin="142,251,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="146"/>
+        <ComboBox x:Name="cboFabricante" Grid.Column="1" BorderBrush="Green" HorizontalAlignment="Left" Margin="645,105,0,0" VerticalAlignment="Top" Width="206"/>
+        <Label Content="*Todos los campos son obligatorios" Grid.Column="1" HorizontalAlignment="Left" Margin="21,289,0,0" VerticalAlignment="Top" Foreground="Red"/>
+        <Label  x:Name="lblValidaRut" Grid.Column="1" HorizontalAlignment="Left" Margin="139,172,0,0" VerticalAlignment="Top" Width="206" Foreground="Red"/>
+        <Image Source="Imagenes/serviexpress-logo.png" Margin="761,-43,10,506" Grid.Column="1" />
+        <mah:ToggleSwitch x:Name="tsEditar" Grid.Column="1" Header="Editar" HorizontalAlignment="Left" Height="100" Margin="28,35,0,0" VerticalAlignment="Top" Width="100" OffContent="No" OnContent="Si" Toggled="ToggleSwitch_Toggled" Foreground="Green" BorderBrush="Green" />
+
+
+    </Grid>
+</mah:MetroWindow>

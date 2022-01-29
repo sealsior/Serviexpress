@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SERVIEXPRESSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="cliente">
+    <Key>
+      <PropertyRef Name="rut_cliente" />
+    </Key>
+    <Property Name="rut_cliente" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="nombre" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="direccion" Type="String" MaxLength="200" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="telefono" Type="Int32" />
+    <Property Name="email" Type="String" MaxLength="100" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="InTaller" Relationship="Self.FK_InTaller_cliente" FromRole="cliente" ToRole="InTaller" />
+  </EntityType>
+  <EntityType Name="InTaller">
+    <Key>
+      <PropertyRef Name="num_ingreso" />
+    </Key>
+    <Property Name="num_ingreso" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="patente" Type="String" MaxLength="10" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="fabricante" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="anno" Type="Int32" Nullable="false" />
+    <Property Name="modelo" Type="String" MaxLength="50" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="servicio" Type="String" MaxLength="100" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="rut_cliente" Type="String" MaxLength="15" FixedLength="false" Unicode="false" Nullable="false" />
+    <NavigationProperty Name="cliente" Relationship="Self.FK_InTaller_cliente" FromRole="InTaller" ToRole="cliente" />
+  </EntityType>
+  <Association Name="FK_InTaller_cliente">
+    <End Role="cliente" Type="Self.cliente" Multiplicity="1" />
+    <End Role="InTaller" Type="Self.InTaller" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="cliente">
+        <PropertyRef Name="rut_cliente" />
+      </Principal>
+      <Dependent Role="InTaller">
+        <PropertyRef Name="rut_cliente" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SERVIEXPRESSEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="cliente" EntityType="Self.cliente" />
+    <EntitySet Name="InTaller" EntityType="Self.InTaller" />
+    <AssociationSet Name="FK_InTaller_cliente" Association="Self.FK_InTaller_cliente">
+      <End Role="cliente" EntitySet="cliente" />
+      <End Role="InTaller" EntitySet="InTaller" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

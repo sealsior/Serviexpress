@@ -1,0 +1,50 @@
+﻿<mah:MetroWindow x:Class="ServiExpress.ListarIngresosTaller"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mah="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ServiExpress"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="CanMinimize"
+        Title="ListarIngresosTaller" Height="500" Width="1000   ">
+    <Grid Background="Azure">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="179*"/>
+            <ColumnDefinition Width="69*"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Fabricante" FontSize="18" HorizontalAlignment="Left"  Foreground="Green" Margin="26,49,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.547,0.212"/>
+        <Label Content="Tipo servicio" FontSize="18" HorizontalAlignment="Left" Foreground="Green" Margin="26,90,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.547,0.212"/>
+        <Label Content="Rut cliente:" FontSize="18" HorizontalAlignment="Left" Foreground="Green" Margin="462,90,0,0" VerticalAlignment="Top" FontWeight="Bold" RenderTransformOrigin="0.211,0.462"/>
+        <Button x:Name="btnFabricante" Content="Buscar" Background="LimeGreen" FontSize="14" Foreground="White" HorizontalAlignment="Left" Margin="364,49,0,0" VerticalAlignment="Top" Width="76" FontWeight="Bold" Click="BtnFabricante_Click"/>
+        <Button x:Name="btnLimpiar" Content="Limpiar" Background="LimeGreen" FontSize="18" Foreground="White" HorizontalAlignment="Left" Margin="611,402,0,0" VerticalAlignment="Top" Width="122" Height="50" FontWeight="Bold" Click="BtnLimpiar_Click" Grid.ColumnSpan="2"/>
+        <Button x:Name="btnBuscarServicio" Content="Buscar" Background="LimeGreen" FontSize="14" Foreground="White" HorizontalAlignment="Left" Margin="364,93,0,0" VerticalAlignment="Top" Width="76" FontWeight="Bold" RenderTransformOrigin="0.36,0.251" Click="BtnBuscarServicio_Click"/>
+        <Button x:Name="btnBuscarCliente" Content="Buscar" Background="LimeGreen" FontSize="14" Foreground="White" HorizontalAlignment="Left" Margin="50,90,0,0" VerticalAlignment="Top" Width="76" FontWeight="Bold" Grid.Column="1" Click="BtnBuscarCliente_Click"/>
+        <Button x:Name="btnVolver" Content="Menu Principal" Background="LimeGreen" FontSize="18" Foreground="White" HorizontalAlignment="Left" Margin="42,402,0,0" VerticalAlignment="Top" Width="170" Height="50" FontWeight="Bold" Click="BtnVolver_Click" Grid.Column="1"/>
+        <Button x:Name="btnIngresarTaller" Content="Gestión Ingresos" Background="LimeGreen" FontSize="18" Foreground="White" HorizontalAlignment="Left" Margin="385,402,0,0" VerticalAlignment="Top" Width="193" Height="50     " FontWeight="Bold" Click="BtnIngresarTaller_Click"/>
+
+        <DataGrid x:Name="dgListadoIngresos" 
+                  HorizontalAlignment="Left" IsReadOnly="True" Height="235" 
+                 AutoGenerateColumns="false" SelectedItem="{Binding Path=num_ingreso}" 
+                  Margin="32,147,0,0" VerticalAlignment="Top" Width="928" Grid.ColumnSpan="2">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID Ingreso" Width="90" Binding="{Binding Path=num_ingreso}"/>
+                <DataGridTextColumn Header="Patente" Width="90" Binding="{Binding Path=patente}"/>
+                <DataGridTextColumn Header="Fabricante" Width="100" Binding="{Binding Path=Nombrefabricante}"/>
+                <DataGridTextColumn Header="Modelo" Width="100" Binding="{Binding Path=modelo}"/>
+                <DataGridTextColumn Header="Año" Width="50" Binding="{Binding Path=anno}"/>
+                <DataGridTextColumn Header="Rut Cliente" Width="100" Binding="{Binding Path=rut_cliente}"/>
+                <DataGridTextColumn Header="Nombre Cliente" Width="130" Binding="{Binding Path=Nombre}"/>
+                <DataGridTextColumn Header="ID Servicio" Width="90" Binding="{Binding Path=id_servicio}"/>
+                <DataGridTextColumn Header="Servicio" Width="190" Binding="{Binding Path=Descripcion}"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <ComboBox x:Name="cboServicios" BorderBrush="Green" HorizontalAlignment="Left" Margin="150,97,0,0" VerticalAlignment="Top" Width="194"/>
+        <Image Source="Imagenes/serviexpress-logo.png" Margin="86,-34,10,355" Grid.Column="1" />
+        <ComboBox x:Name="cboFabricante" HorizontalAlignment="Left" Margin="150,57,0,0" VerticalAlignment="Top" Width="194"/>
+        <ComboBox x:Name="cboCliente" HorizontalAlignment="Left" Margin="588,93,0,0" VerticalAlignment="Top" Width="174" Grid.ColumnSpan="2"/>
+        <Label Content="Listado de ingresos a taller" HorizontalAlignment="Left" Margin="298,3,0,0" VerticalAlignment="Top" FontSize="27" FontWeight="Bold" Foreground="Green"/>
+
+    </Grid>
+</mah:MetroWindow>

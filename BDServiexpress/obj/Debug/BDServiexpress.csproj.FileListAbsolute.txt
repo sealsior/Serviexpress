@@ -1,0 +1,48 @@
+F:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll.config
+F:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll
+F:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.pdb
+F:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.dll
+F:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.dll
+F:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.xml
+F:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.xml
+F:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csprojAssemblyReference.cache
+F:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CoreCompileInputs.cache
+F:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CopyComplete
+F:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.dll
+F:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.dll
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.xml
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csprojAssemblyReference.cache
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CopyComplete
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.dll
+C:\Users\baggr\source\repos\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.pdb
+D:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll.config
+D:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll
+D:\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.pdb
+D:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.dll
+D:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.dll
+D:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.xml
+D:\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.xml
+D:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csprojAssemblyReference.cache
+D:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CoreCompileInputs.cache
+D:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CopyComplete
+D:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.dll
+D:\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csprojAssemblyReference.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.csproj.CopyComplete
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BDServiexpress\obj\Debug\BDServiexpress.pdb

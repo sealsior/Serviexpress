@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SERVIEXPRESSModelStoreContainer" CdmEntityContainer="SERVIEXPRESSEntities">
+    <EntitySetMapping Name="cliente">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.cliente">
+        <MappingFragment StoreEntitySet="cliente">
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="email" ColumnName="email" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="InTaller">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.InTaller">
+        <MappingFragment StoreEntitySet="InTaller">
+          <ScalarProperty Name="num_ingreso" ColumnName="num_ingreso" />
+          <ScalarProperty Name="patente" ColumnName="patente" />
+          <ScalarProperty Name="fabricante" ColumnName="fabricante" />
+          <ScalarProperty Name="anno" ColumnName="anno" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="servicio" ColumnName="servicio" />
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

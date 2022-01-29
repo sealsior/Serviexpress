@@ -1,0 +1,12 @@
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\ServiexpressEDM.dll.config
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\ServiexpressEDM.dll
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\ServiexpressEDM.pdb
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\EntityFramework.dll
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\EntityFramework.xml
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\obj\Debug\ServiexpressBD.csprojAssemblyReference.cache
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\obj\Debug\ServiexpressBD.csproj.CoreCompileInputs.cache
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\obj\Debug\ServiexpressBD.csproj.CopyComplete
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\obj\Debug\ServiexpressEDM.dll
+C:\Users\baggr\source\repos\ServiExpress\ServiexpressEDM\obj\Debug\ServiexpressEDM.pdb

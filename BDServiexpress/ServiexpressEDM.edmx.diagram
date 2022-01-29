@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1641f76e73b6484cbca7d5e5c1def08f" Name="Diagram1">
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.Cliente" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.Convenio" Width="1.5" PointX="0.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.Fabricante" Width="1.5" PointX="3" PointY="4.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.IngresoTaller" Width="1.5" PointX="5.25" PointY="1" IsExpanded="true" />
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.Servicio" Width="1.5" PointX="3" PointY="7.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="SERVIEXPRESSModel.Usuario" Width="1.5" PointX="5.75" PointY="4.75" IsExpanded="true" />
+        <AssociationConnector Association="SERVIEXPRESSModel.FK_Cliente_Convenio" ManuallyRouted="false" />
+        <AssociationConnector Association="SERVIEXPRESSModel.FK_IngresoTaller_Cliente" ManuallyRouted="false" />
+        <AssociationConnector Association="SERVIEXPRESSModel.FK_IngresoTaller_Fabricante" ManuallyRouted="false" />
+        <AssociationConnector Association="SERVIEXPRESSModel.FK_IngresoTaller_Servicio" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="SERVIEXPRESSModelStoreContainer" CdmEntityContainer="SERVIEXPRESSEntities">
+    <EntitySetMapping Name="Cliente">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.Cliente">
+        <MappingFragment StoreEntitySet="Cliente">
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+          <ScalarProperty Name="nombre" ColumnName="nombre" />
+          <ScalarProperty Name="direccion" ColumnName="direccion" />
+          <ScalarProperty Name="telefono" ColumnName="telefono" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="id_convenio" ColumnName="id_convenio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Convenio">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.Convenio">
+        <MappingFragment StoreEntitySet="Convenio">
+          <ScalarProperty Name="id_convenio" ColumnName="id_convenio" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="descuento" ColumnName="descuento" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Fabricante">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.Fabricante">
+        <MappingFragment StoreEntitySet="Fabricante">
+          <ScalarProperty Name="id_fabricante" ColumnName="id_fabricante" />
+          <ScalarProperty Name="nombrefabricante" ColumnName="nombrefabricante" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="IngresoTaller">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.IngresoTaller">
+        <MappingFragment StoreEntitySet="IngresoTaller">
+          <ScalarProperty Name="num_ingreso" ColumnName="num_ingreso" />
+          <ScalarProperty Name="patente" ColumnName="patente" />
+          <ScalarProperty Name="id_fabricante" ColumnName="id_fabricante" />
+          <ScalarProperty Name="anno" ColumnName="anno" />
+          <ScalarProperty Name="modelo" ColumnName="modelo" />
+          <ScalarProperty Name="id_servicio" ColumnName="id_servicio" />
+          <ScalarProperty Name="rut_cliente" ColumnName="rut_cliente" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Servicio">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.Servicio">
+        <MappingFragment StoreEntitySet="Servicio">
+          <ScalarProperty Name="id_servicio" ColumnName="id_servicio" />
+          <ScalarProperty Name="descripcion" ColumnName="descripcion" />
+          <ScalarProperty Name="precio" ColumnName="precio" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Usuario">
+      <EntityTypeMapping TypeName="SERVIEXPRESSModel.Usuario">
+        <MappingFragment StoreEntitySet="Usuario">
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="nombreusuario" ColumnName="nombreusuario" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

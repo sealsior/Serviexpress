@@ -1,0 +1,75 @@
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+D:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+D:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+D:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+D:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+F:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+F:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+F:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+F:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+F:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+F:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+F:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+F:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll
+F:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.dll
+F:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+F:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.pdb
+F:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll.config
+F:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.xml
+F:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+F:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\source\repos\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+D:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+D:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+D:\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+D:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll
+D:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.dll
+D:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+D:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.pdb
+D:\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll.config
+D:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.xml
+D:\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+D:\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csprojAssemblyReference.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CoreCompileInputs.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.csproj.CopyComplete
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\BibliotecaClases\obj\Debug\BibliotecaClases.pdb

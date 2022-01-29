@@ -1,0 +1,886 @@
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\AdminClientes.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ListarClientes.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\IngresoTaller.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\App.g.cs
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ServiExpress.exe.config
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ServiExpress.exe
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ServiExpress.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\AdminClientes.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ListarClientes.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\IngresoTaller.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.g.resources
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.exe
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+C:\Users\baggr\source\repos\Sol_PrimeraApp\WpfApp1\obj\Debug\App.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe.config
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ServiExpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\AdminClientes.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ListarClientes.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\InTaller.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\App.g.cs
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\App.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\AdminClientes.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ListarClientes.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\InTaller.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.g.resources
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.exe
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\obj\Debug\ServiExpress.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe.config
+D:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe
+D:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll
+D:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+D:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+D:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\ServiExpress\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+D:\ServiExpress\WpfApp1\obj\Debug\Resources\Icons.baml
+D:\ServiExpress\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+D:\ServiExpress\WpfApp1\obj\Debug\AdminClientes.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\ListarClientes.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\InTaller.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\App.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+D:\ServiExpress\WpfApp1\obj\Debug\App.baml
+D:\ServiExpress\WpfApp1\obj\Debug\AdminClientes.baml
+D:\ServiExpress\WpfApp1\obj\Debug\ListarClientes.baml
+D:\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+D:\ServiExpress\WpfApp1\obj\Debug\InTaller.baml
+D:\ServiExpress\WpfApp1\obj\Debug\MainWindow.baml
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.g.resources
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.exe
+D:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe.config
+F:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe
+F:\ServiExpress\WpfApp1\bin\Debug\ServiExpress.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll
+F:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+F:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+F:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\ControlzEx.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+F:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+F:\ServiExpress\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+F:\ServiExpress\WpfApp1\obj\Debug\Resources\Icons.baml
+F:\ServiExpress\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+F:\ServiExpress\WpfApp1\obj\Debug\AdminClientes.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\ListarClientes.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\InTaller.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\App.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+F:\ServiExpress\WpfApp1\obj\Debug\App.baml
+F:\ServiExpress\WpfApp1\obj\Debug\AdminClientes.baml
+F:\ServiExpress\WpfApp1\obj\Debug\ListarClientes.baml
+F:\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+F:\ServiExpress\WpfApp1\obj\Debug\InTaller.baml
+F:\ServiExpress\WpfApp1\obj\Debug\MainWindow.baml
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.g.resources
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.exe
+F:\ServiExpress\WpfApp1\obj\Debug\ServiExpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\source\repos\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.dll
+D:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll
+D:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll.config
+D:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.xml
+D:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.pdb
+D:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll.config
+F:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.dll
+F:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll
+F:\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll.config
+F:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.xml
+F:\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.pdb
+F:\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe.config
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ServiExpress.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminClientes.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ListarClientes.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\InTaller.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\App.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\App.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminClientes.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ListarClientes.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\InTaller.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.g.resources
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.exe
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\ServiExpress.pdb
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminServicios.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminServicios.baml
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.g.cs
+C:\Users\baggr\Downloads\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.baml
+D:\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\AdminServicios.g.cs
+D:\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.baml
+D:\ServiExpress\WpfApp1\obj\Debug\AdminServicios.baml
+F:\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\AdminServicios.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.baml
+F:\ServiExpress\WpfApp1\obj\Debug\AdminServicios.baml
+F:\ServiExpress\WpfApp1\obj\Debug\Home.g.cs
+F:\ServiExpress\WpfApp1\obj\Debug\Home.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ServiExpress.exe
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ServiExpress.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ControlzEx.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BibliotecaClases.dll.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ControlzEx.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\ControlzEx.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BootstrapIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.BoxIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Codicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Coolicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Core.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Entypo.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.EvaIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FeatherIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FileIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontaudio.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.FontAwesome.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Fontisto.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.ForkAwesome.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Ionicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.JamIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Material.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialDesign.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.MaterialLight.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Microns.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Modern.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Octicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PicolIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.PixelartIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RadixIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RemixIcon.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.RPGAwesome.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.SimpleIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Typicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Unicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.VaadinIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.WeatherIcons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\MahApps.Metro.IconPacks.Zondicons.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.pdb
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\BDServiexpress.dll.config
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csprojAssemblyReference.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\Resources\Icons.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\Resources\IconsNonShared.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminClientes.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminServicios.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\Home.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ListarClientes.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\InTaller.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\App.g.cs
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress_MarkupCompile.lref
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\App.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminClientes.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminConvenios.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\AdminServicios.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\Home.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ListarClientes.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ListarIngresosTaller.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\InTaller.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.g.resources
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.Properties.Resources.resources
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.GenerateResource.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CoreCompileInputs.cache
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.csproj.CopyComplete
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.exe
+C:\Users\baggr\Downloads\C Sharp\ServiExpress\WpfApp1\obj\Debug\ServiExpress.pdb
